@@ -22,7 +22,7 @@ I'm always open to discussions, collaborations, and knowledge-sharing. Whether y
 
 LinkedIn: https://www.linkedin.com/in/adriandefry
 
-Twitter: @adriandefry
+Twitter: [@adriandefry](https://twitter.com/adriandefry)
 
 Email: adriandefry@gmail.com
 
