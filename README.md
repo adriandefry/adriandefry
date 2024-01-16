@@ -1,6 +1,4 @@
-👋 Hello World! I'm Adrian Defry 🔐 Cybersecurity Enthusiast | Ethical Hacker 🔐 a passionate cybersecurity professional committed to securing the digital realm from potential threats. With a blend of technical expertise and a hacker's mindset, I thrive on the ever-evolving challenges in the cybersecurity landscape.
-
-
+👋 Hello World! I'm Adrian Defry, a passionate cybersecurity professional committed to securing the digital realm from potential threats. With a blend of technical expertise and a hacker's mindset, I thrive on the ever-evolving challenges in the cybersecurity landscape.
 
 ---
 💻 Technical Wizardry:
