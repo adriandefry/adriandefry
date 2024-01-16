@@ -29,7 +29,7 @@ Email: adriandefry@gmail.com
 
 Let's make the digital world a safer place, one line of code at a time!
 
-                                                            💻🛡️ #Cybersecurity #EthicalHacking #InfoSec
+                                                        💻🛡️ #Cybersecurity #EthicalHacking #InfoSec
 
 <!--
 **adriandefry/adriandefry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
